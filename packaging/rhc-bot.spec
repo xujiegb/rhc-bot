@@ -2,7 +2,7 @@ Name: rhc-bot
 Version: %{version}
 Release: 1%{?dist}
 Summary: Telegram RHC activation-key verification bot
-License: MIT
+License: AGPL-3.0-only
 Requires: podman
 %description
 A lightweight Rust Telegram gatekeeper which validates RHC activation keys in disposable UBI containers.
